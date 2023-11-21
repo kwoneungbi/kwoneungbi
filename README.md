@@ -1,5 +1,5 @@
 # **Welcome to eunbi's GitHub 👋**
- - 권은비 Kwon Eunbi 
+ - Kwon Eunbi 
  - born in 1998/10/19
  - rnjsdmsql7290@gmail.com 
  
