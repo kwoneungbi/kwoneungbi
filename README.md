@@ -21,3 +21,10 @@
 	  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> 
 	  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 </div>
+
+<a href="https://github.com/kwoneungbi/github-stats">
+<img src="https://github.com/kwoneungbi/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/kwoneungbi/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/kwoneungbi/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/kwoneungbi/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+</a>
