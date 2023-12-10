@@ -10,7 +10,7 @@
 - 정보기술자격(ITQ) 시험 A급 _ 한국생산성 본부 2016 <br>
 
 
-## Study ✍️
+## Study ✍️ <a href="https://velog.io/@eungbi/series" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=000000"/></a> <a href="https://www.npmjs.com/~eunbi" target="_blank"><img src="https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=000000"/></a>
 
 
 
@@ -20,7 +20,6 @@
 - [Netlify - ToDoList](https://grand-zabaione-b5a442.netlify.app/)
 - [npm](https://www.npmjs.com/~eunbi) 
 
-  <a href="https://velog.io/@eungbi/series" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=000000"/></a> <a href="https://www.npmjs.com/~eunbi" target="_blank"><img src="https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=000000"/></a>
 
 ## Skills 🔎
 <div>
