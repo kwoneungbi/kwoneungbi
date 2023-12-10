@@ -25,3 +25,6 @@
 	<img src="https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
 	<img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </div>
+
+<!-- ---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwoneungbi&show_icons=true&theme=radical) -->
