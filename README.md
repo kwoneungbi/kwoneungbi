@@ -3,7 +3,7 @@
  - born in 1998/10/19
  - rnjsdmsql7290@gmail.com 
  
-## Certificate 📚
+## 📚 Certificate
 - 정보처리기능사 _ 한국산업인력공단 2016 <br>
 - 리눅스 마스터 2급 _ (사)한국정보통신진흥협회 2016  <br>
 - 컴퓨터 활용능력 2급 _ 대한상공회의소 2016 <br>
@@ -18,7 +18,7 @@
 - [npm](https://www.npmjs.com/~eunbi) 
 
 
-## Skills 🔎
+## 🔎 Skills
 <div>
 	  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
 	<img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
