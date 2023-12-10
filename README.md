@@ -26,8 +26,6 @@
 	<img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-<br>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwoneungbi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ---
