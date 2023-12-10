@@ -10,7 +10,7 @@
 - 정보기술자격(ITQ) 시험 A급 _ 한국생산성 본부 2016 <br>
 
 
-## Study <a href="https://velog.io/@eungbi/series" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=000000"/></a> <a href="https://www.npmjs.com/~eunbi" target="_blank"><img src="https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=000000"/></a>
+## ✍ Study <a href="https://velog.io/@eungbi/series" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=000000"/></a> <a href="https://www.npmjs.com/~eunbi" target="_blank"><img src="https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=000000"/></a>
 
 - [Velog](https://velog.io/@eungbi) <br>
 - [Programmers - Algorithm](https://velog.io/@eungbi/series/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8) <br>
